@@ -42,7 +42,7 @@ function Header() {
       <header className="main-header sticky-top fixed-top">
         <div
           className="topbar fixed-top sticky-top mb-1"
-          style={{padding: "7px" }}
+          style={{ padding: "7px" }}
         >
           <Container>
             <div className="d-flex justify-content-between align-items-center">
@@ -190,6 +190,15 @@ function Header() {
                 >
                   {t("İLETİŞİM")}
                 </Nav.Link>
+
+                <Nav.Link
+                  href="assets/pdf/Yenidünya-Katalog.pdf"
+                  download
+                  className="av-link scrollto"
+                >
+                  <i className="fa fa-download" style={{fontSize:"14px"}}></i>&nbsp;
+                  {t("E-KATALOG")}
+                </Nav.Link>
                 {/* <Nav.Link
                   href="https://wa.me/905321621647"
                   title={t("Bize Whatsapptan Ulaşın")}
@@ -203,24 +212,41 @@ function Header() {
                 </Nav.Link> */}
               </Nav>
               <div class="main-menu__right">
-                <a href="tel:+02242234234" className="main-menu__phone" alt="Telefon" aria-label="Telefon">
-                  <i className="icon-telephone"></i>
-                </a>
                 <a
-                  href="https://www.facebook.com/"
-                  target="_blank"
+                  href="tel:+02242234234"
                   className="main-menu__phone"
-                  alt="Facebook"
-                  aria-label="Whatsapp"
+                  alt="Telefon"
+                  aria-label="Telefon"
                 >
-                  <i className="fab fa-Facebook"></i>
+                  <i className="icon-telephone"></i>
                 </a>
                 <a
                   href="https://www.instagram.com/yenidunyaendustriyel/"
                   target="_blank"
                   className="main-menu__phone"
                   alt="Yenidünya"
+                  title="Yenidünya"
                   aria-label="Yenidünya"
+                >
+                  <i className="fab fa-instagram"></i>
+                </a>
+                <a
+                  href="https://www.instagram.com/loprencosmetics?igsh=aGQ5YjZ0cDY2amNy"
+                  target="_blank"
+                  className="main-menu__phone"
+                  alt="Lopren"
+                  title="Lopren"
+                  aria-label="Lopren"
+                >
+                  <i className="fab fa-instagram"></i>
+                </a>
+                <a
+                  href="https://www.instagram.com/baproybitkiselcom?igsh=MTl1cWR3dzFxamNidg=="
+                  target="_blank"
+                  className="main-menu__phone"
+                  alt="Baproy"
+                  title="Baproy"
+                  aria-label="Baproy"
                 >
                   <i className="fab fa-instagram"></i>
                 </a>

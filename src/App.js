@@ -1,5 +1,5 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import { HashRouter as Router } from 'react-router-dom';
+import { HashRouter as Router } from "react-router-dom";
 import React, { useEffect } from "react";
 import Footer from "./Components/common/Footer";
 import Header from "./Components/common/Header";

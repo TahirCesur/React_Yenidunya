@@ -1394,6 +1394,12 @@
   padding: 0px;
 }
 
+.sidebar__singles i {
+  position: relative;
+  padding: 0px;
+  font-size: 15px;
+}
+
 .sidebar__singles:hover {
   color: #010101!important;
 }

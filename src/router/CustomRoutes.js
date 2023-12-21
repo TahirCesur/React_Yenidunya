@@ -119,32 +119,108 @@ import EndustriyelMutfakYerOcagiPage from "../pages/EndustriyelMutfakYerOcagiPag
 
 const CustomRoutes = () => {
   return (
-    <Routes>      
-      <Route exact path="/gida-su" element={<GidaSuPage />} />
+    <Routes>
+      <Route exact path="/GidaSu" element={<GidaSuPage />} />
       <Route exact path="/GidaSoda" element={<GidaSodaPage />} />
       <Route exact path="/GidaKupSeker" element={<GidaKupSekerPage />} />
-      <Route exact path="/GidaCaykurTiryakiCay" element={<GidaCaykurTiryakiCayPage />} />
-      <Route exact path="/GidaCaykurRizeTuristCay" element={<GidaCaykurRizeTuristCayPage />} />
-      <Route exact path="/GidaCaykurKamelyaCay" element={<GidaCaykurKamelyaCayPage />} />
-      <Route exact path="/GidaCaykurFilizCay" element={<GidaCaykurFilizCayPage />} />
+      <Route
+        exact
+        path="/GidaCaykurTiryakiCay"
+        element={<GidaCaykurTiryakiCayPage />}
+      />
+      <Route
+        exact
+        path="/GidaCaykurRizeTuristCay"
+        element={<GidaCaykurRizeTuristCayPage />}
+      />
+      <Route
+        exact
+        path="/GidaCaykurKamelyaCay"
+        element={<GidaCaykurKamelyaCayPage />}
+      />
+      <Route
+        exact
+        path="/GidaCaykurFilizCay"
+        element={<GidaCaykurFilizCayPage />}
+      />
       <Route exact path="/Gida" element={<GidaPage />} />
-      <Route exact path="/AmbalajStrecFilmUzun" element={<AmbalajStrecFilmUzunPage />} />
-      <Route exact path="/AmbalajStrecFilmKisa" element={<AmbalajStrecFilmKisaPage />} />
-      <Route exact path="/AmbalajSizdirmazKapOrta" element={<AmbalajSizdirmazKapOrtaPage />} />
-      <Route exact path="/AmbalajSizdirmazKapKucuk" element={<AmbalajSizdirmazKapKucukPage />} />
-      <Route exact path="/AmbalajSizdirmazKapBuyuk" element={<AmbalajSizdirmazKapBuyukPage />} />
-      <Route exact path="/AmbalajOrtaCopTorbasi" element={<AmbalajOrtaCopTorbasiPage />} />
-      <Route exact path="/AmbalajJumboCopTorbasi" element={<AmbalajJumboCopTorbasiPage />} />
-      <Route exact path="/AmbalajBuyukCopTorbasi" element={<AmbalajBuyukCopTorbasiPage />} />
-      <Route exact path="/AmbalajAluminyumFolyoUzun" element={<AmbalajAluminyumFolyoUzunPage />} />
-      <Route exact path="/AmbalajAluminyumFolyoKisa" element={<AmbalajAluminyumFolyoKisaPage />} />
+      <Route
+        exact
+        path="/AmbalajStrecFilmUzun"
+        element={<AmbalajStrecFilmUzunPage />}
+      />
+      <Route
+        exact
+        path="/AmbalajStrecFilmKisa"
+        element={<AmbalajStrecFilmKisaPage />}
+      />
+      <Route
+        exact
+        path="/AmbalajSizdirmazKapOrta"
+        element={<AmbalajSizdirmazKapOrtaPage />}
+      />
+      <Route
+        exact
+        path="/AmbalajSizdirmazKapKucuk"
+        element={<AmbalajSizdirmazKapKucukPage />}
+      />
+      <Route
+        exact
+        path="/AmbalajSizdirmazKapBuyuk"
+        element={<AmbalajSizdirmazKapBuyukPage />}
+      />
+      <Route
+        exact
+        path="/AmbalajOrtaCopTorbasi"
+        element={<AmbalajOrtaCopTorbasiPage />}
+      />
+      <Route
+        exact
+        path="/AmbalajJumboCopTorbasi"
+        element={<AmbalajJumboCopTorbasiPage />}
+      />
+      <Route
+        exact
+        path="/AmbalajBuyukCopTorbasi"
+        element={<AmbalajBuyukCopTorbasiPage />}
+      />
+      <Route
+        exact
+        path="/AmbalajAluminyumFolyoUzun"
+        element={<AmbalajAluminyumFolyoUzunPage />}
+      />
+      <Route
+        exact
+        path="/AmbalajAluminyumFolyoKisa"
+        element={<AmbalajAluminyumFolyoKisaPage />}
+      />
       <Route exact path="/Ambalaj" element={<AmbalajPage />} />
       <Route exact path="/BitkiselUrunler" element={<BitkiselUrunlerPage />} />
-      <Route exact path="/BitkiselUrunlerBaproyBabyCamasirDeterjani" element={<BitkiselUrunlerBaproyBabyCamasirDeterjaniPage />} />
-      <Route exact path="/BitkiselUrunlerBaproySensitiveCamasirDeterjani" element={<BitkiselUrunlerBaproySensitiveCamasirDeterjaniPage />} />
-      <Route exact path="/BitkiselUrunlerBaproyBitkiselCamasirYumusatici" element={<BitkiselUrunlerBaproyBitkiselCamasirYumusaticiPage />} />
-      <Route exact path="/BitkiselUrunlerBaproyBabyBitkiselCamasirYumusatici" element={<BitkiselUrunlerBaproyBabyBitkiselCamasirYumusaticiPage />} />
-      <Route exact path="/BitkiselUrunlerBaproyBitkiselBiberonEmzikTemzileyici" element={<BitkiselUrunlerBaproyBitkiselBiberonEmzikTemzileyiciPage />} />
+      <Route
+        exact
+        path="/BitkiselUrunlerBaproyBabyCamasirDeterjani"
+        element={<BitkiselUrunlerBaproyBabyCamasirDeterjaniPage />}
+      />
+      <Route
+        exact
+        path="/BitkiselUrunlerBaproySensitiveCamasirDeterjani"
+        element={<BitkiselUrunlerBaproySensitiveCamasirDeterjaniPage />}
+      />
+      <Route
+        exact
+        path="/BitkiselUrunlerBaproyBitkiselCamasirYumusatici"
+        element={<BitkiselUrunlerBaproyBitkiselCamasirYumusaticiPage />}
+      />
+      <Route
+        exact
+        path="/BitkiselUrunlerBaproyBabyBitkiselCamasirYumusatici"
+        element={<BitkiselUrunlerBaproyBabyBitkiselCamasirYumusaticiPage />}
+      />
+      <Route
+        exact
+        path="/BitkiselUrunlerBaproyBitkiselBiberonEmzikTemzileyici"
+        element={<BitkiselUrunlerBaproyBitkiselBiberonEmzikTemzileyiciPage />}
+      />
       <Route
         exact
         path="/EndustriyelMutfakEndustriyelDavlumbaz"
@@ -275,11 +351,7 @@ const CustomRoutes = () => {
         path="/TemizlikEndustriyelBulasikMakinesKirecTemzileme"
         element={<TemizlikEndustriyelBulasikMakinesKirecTemzilemePage />}
       />
-      <Route
-        exact
-        path="/TemizlikKolonya"
-        element={<TemizlikKolonyaPage />}
-      />
+      <Route exact path="/TemizlikKolonya" element={<TemizlikKolonyaPage />} />
       <Route
         exact
         path="/TemizlikYagCozucu"
@@ -520,12 +592,32 @@ const CustomRoutes = () => {
         path="/AzelaikCiltBakimSerum"
         element={<AzelaikCiltBakimSerumPage />}
       />
-      <Route exact path="/KozmetikUrunleri" element={<KozmetikUrunleriPage />} />
+      <Route
+        exact
+        path="/KozmetikUrunleri"
+        element={<KozmetikUrunleriPage />}
+      />
       <Route path="/Contactus" element={<ContactusPage />} />
-      <Route exact path="/ProductSimilarKozmetik" element={<ProductSimilarKozmetikPage />} />
-      <Route exact path="/ProductSimilarEndustriyelKagit" element={<ProductSimilarEndustriyelKagitPage />} />
-      <Route exact path="/ProductSimilarAmbalaj" element={<ProductSimilarAmbalajPage />} />
-      <Route exact path="/ProductSimilarGida" element={<ProductSimilarGidaPage />} />
+      <Route
+        exact
+        path="/ProductSimilarKozmetik"
+        element={<ProductSimilarKozmetikPage />}
+      />
+      <Route
+        exact
+        path="/ProductSimilarEndustriyelKagit"
+        element={<ProductSimilarEndustriyelKagitPage />}
+      />
+      <Route
+        exact
+        path="/ProductSimilarAmbalaj"
+        element={<ProductSimilarAmbalajPage />}
+      />
+      <Route
+        exact
+        path="/ProductSimilarGida"
+        element={<ProductSimilarGidaPage />}
+      />
       <Route exact path="/ProductSimilar" element={<ProductSimilarPage />} />
       <Route exact path="/ProductDetails" element={<ProductDetailsPage />} />
       <Route exact path="/Question" element={<QuestionPage />} />

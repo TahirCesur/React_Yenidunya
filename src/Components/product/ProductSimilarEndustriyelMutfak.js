@@ -2,7 +2,7 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 import { Col, Row } from "react-bootstrap";
 import ProductOne from "./ProductOne";
-import data from "../../data/productmutfak.json";
+import data from "../../data/productmutfaks.json";
 
 function ProductSimilarEndustriyelMutfak() {
   const { t } = useTranslation();
@@ -22,9 +22,9 @@ function ProductSimilarEndustriyelMutfak() {
           </div>
           <div class="nisoz-owl__dots nisoz-owl__carousel ">
             <Row>
-              {data.map((productmutfak) => {
-                const { picture, id, nav, price } = productmutfak;
-                const title = t(productmutfak.title);
+              {data.map((productmutfaks) => {
+                const { picture, id, nav, price } = productmutfaks;
+                const title = t(productmutfaks.title);
 
                 return (
                   <Col md={3} key={id} className="text-center mb-5">

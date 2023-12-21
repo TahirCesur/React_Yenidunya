@@ -43,20 +43,39 @@ function Footer() {
               </h1>
             </Link>
             <div className="main-footer__social">
-              <a href="https://www.facebook.com/" target="_blank" alt="Facebook" aria-label="Facebook" >
-                <i className="fab fa-facebook"></i>
-              </a>
-              <a
-                href="https://www.instagram.com/yenidunyaendustriyel/"
-                target="_blank" alt="Yenidünya" aria-label="Yenidünya"
-              >
-                <i className="fab fa-instagram"></i>
-              </a>
+            <a
+                  href="https://www.instagram.com/yenidunyaendustriyel/"
+                  target="_blank"
+                  alt="Yenidünya"
+                  title="Yenidünya"
+                  aria-label="Yenidünya"
+                >
+                  <i className="fab fa-instagram"></i>
+                </a>
+                <a
+                  href="https://www.instagram.com/loprencosmetics?igsh=aGQ5YjZ0cDY2amNy"
+                  target="_blank"
+                  alt="Lopren"
+                  title="Lopren"
+                  aria-label="Lopren"
+                >
+                  <i className="fab fa-instagram"></i>
+                </a>
+                <a
+                  href="https://www.instagram.com/baproybitkiselcom?igsh=MTl1cWR3dzFxamNidg=="
+                  target="_blank"
+                  alt="Baproy"
+                  title="Baproy"
+                  aria-label="Baproy"
+                >
+                  <i className="fab fa-instagram"></i>
+                </a>
               <a
                 href="https://wa.me/905465341963"
                 className="fab fa-whatsapp"
                 target="_blank"
                 alt="Whatsapp"
+                title="Whatsapp"
                 aria-label="Whatsapp"
                 rel="noopener noreferrer"
               ></a>
