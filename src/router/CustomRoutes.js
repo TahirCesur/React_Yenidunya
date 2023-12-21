@@ -110,13 +110,17 @@ import TemizlikSiviElYikamaMaddesiPage from "../pages/TemizlikSiviElYikamaMaddes
 import BitkiselUrunlerBaproyBabyBitkiselCamasirYumusaticiPage from "../pages/BitkiselUrunlerBaproyBabyBitkiselCamasirYumusaticiPage";
 import BitkiselUrunlerBaproyBitkiselCamasirYumusaticiPage from "../pages/BitkiselUrunlerBaproyBitkiselCamasirYumusaticiPage";
 import BitkiselUrunlerBaproyBitkiselBiberonEmzikTemzileyiciPage from "../pages/BitkiselUrunlerBaproyBitkiselBiberonEmzikTemzileyiciPage";
+import EndustriyelMutfakEndustriyelDavlumbazPage from "../pages/EndustriyelMutfakEndustriyelDavlumbazPage";
+import EndustriyelMutfakKuzineFirinPage from "../pages/EndustriyelMutfakKuzineFirinPage";
+import EndustriyelMutfakPaslanmazTezgahPage from "../pages/EndustriyelMutfakPaslanmazTezgahPage";
+import EndustriyelMutfakYerOcagiPage from "../pages/EndustriyelMutfakYerOcagiPage";
 
 /* import TopBarPage from "../pages/TopBarPage"; */
 
 const CustomRoutes = () => {
   return (
     <Routes>      
-      <Route exact path="/GidaSu" element={<GidaSuPage />} />
+      <Route exact path="/gida-su" element={<GidaSuPage />} />
       <Route exact path="/GidaSoda" element={<GidaSodaPage />} />
       <Route exact path="/GidaKupSeker" element={<GidaKupSekerPage />} />
       <Route exact path="/GidaCaykurTiryakiCay" element={<GidaCaykurTiryakiCayPage />} />
@@ -141,6 +145,26 @@ const CustomRoutes = () => {
       <Route exact path="/BitkiselUrunlerBaproyBitkiselCamasirYumusatici" element={<BitkiselUrunlerBaproyBitkiselCamasirYumusaticiPage />} />
       <Route exact path="/BitkiselUrunlerBaproyBabyBitkiselCamasirYumusatici" element={<BitkiselUrunlerBaproyBabyBitkiselCamasirYumusaticiPage />} />
       <Route exact path="/BitkiselUrunlerBaproyBitkiselBiberonEmzikTemzileyici" element={<BitkiselUrunlerBaproyBitkiselBiberonEmzikTemzileyiciPage />} />
+      <Route
+        exact
+        path="/EndustriyelMutfakEndustriyelDavlumbaz"
+        element={<EndustriyelMutfakEndustriyelDavlumbazPage />}
+      />
+      <Route
+        exact
+        path="/EndustriyelMutfakKuzineFirin"
+        element={<EndustriyelMutfakKuzineFirinPage />}
+      />
+      <Route
+        exact
+        path="/EndustriyelMutfakPaslanmazTezgah"
+        element={<EndustriyelMutfakPaslanmazTezgahPage />}
+      />
+      <Route
+        exact
+        path="/EndustriyelMutfakYerOcagi"
+        element={<EndustriyelMutfakYerOcagiPage />}
+      />
       <Route
         exact
         path="/EndustriyelMutfakOztiryakilerBardakYikamaMakinesi"

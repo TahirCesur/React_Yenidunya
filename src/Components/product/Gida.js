@@ -20,6 +20,7 @@ function Gida() {
     window.scrollTo(0, 0);
     setExpanded(false);
   };
+  
   return (
     <SRLWrapper>
       <section className="blog-one">
