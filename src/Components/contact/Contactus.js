@@ -47,7 +47,11 @@ function Contactus() {
         <div className="container wow fadeInUp" data-wow-delay="300ms">
           <div className="section-title text-center">
             <div className="section-title__triangle">
-              <img src="assets/images/favicons/icon.ico" alt="icon" aria-label="icon" />
+              <img
+                src="assets/images/favicons/icon.ico"
+                alt="icon"
+                aria-label="icon"
+              />
             </div>
             <h5 className="section-title__tagline">
               {t("BİZİMLE İLETİŞİME GEÇİN")}
