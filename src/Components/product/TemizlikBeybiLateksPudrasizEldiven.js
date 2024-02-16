@@ -41,13 +41,13 @@ function TemizlikBeybiLateksPudrasizEldiven() {
               >
                 <div className="product-details__img">
                   <img
-                    src="assets/images/endustriyeltemizlik/beybi-lateks-pudrasiz.jpeg"
+                    src="assets/images/endustriyeltemizlik/beybi-lateks-pudrasiz.webp"
                     alt="BEYBİ LATEKS PUDRASIZ ELDİVEN"
                   />
                   <div className="product-details__img-search">
                     <a
                       className="img-popup"
-                      href="assets/images/endustriyeltemizlik/beybi-lateks-pudrasiz.jpeg"
+                      href="assets/images/endustriyeltemizlik/beybi-lateks-pudrasiz.webp"
                     ></a>
                   </div>
                 </div>

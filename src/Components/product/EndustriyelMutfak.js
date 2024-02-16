@@ -54,7 +54,7 @@ function EndustriyelMutfak() {
                         <li>
                           <Link
                             as={Link}
-                            to="/EndustriyelTemizlik"
+                            to="/endustriyel-temizlik"
                             onClick={handleClick}
                           >
                             {t("Endüstriyel Temizlik")}
@@ -63,7 +63,7 @@ function EndustriyelMutfak() {
                         <li>
                           <Link
                             as={Link}
-                            to="/EndustriyelMutfak"
+                            to="/endustriyel-mutfak"
                             onClick={handleClick}
                           >
                             {t("Endüstriyel Mutfak")}
@@ -72,7 +72,7 @@ function EndustriyelMutfak() {
                         <li>
                           <Link
                             as={Link}
-                            to="/EndustriyelKagit"
+                            to="/endustriyel-kagit"
                             onClick={handleClick}
                           >
                             {t("Endüstriyel Kağıt")}
@@ -81,7 +81,7 @@ function EndustriyelMutfak() {
                         <li>
                           <Link
                             as={Link}
-                            to="/KozmetikUrunleri"
+                            to="/kozmetik-urunleri"
                             onClick={handleClick}
                           >
                             {t("Kozmetik Ürünleri")}
@@ -90,19 +90,19 @@ function EndustriyelMutfak() {
                         <li>
                           <Link
                             as={Link}
-                            to="/BitkiselUrunler"
+                            to="/bitkisel-urunler"
                             onClick={handleClick}
                           >
                             {t("Bitkisel Ürünler")}
                           </Link>
                         </li>
                         <li>
-                          <Link as={Link} to="/Ambalaj" onClick={handleClick}>
+                          <Link as={Link} to="/ambalaj" onClick={handleClick}>
                             {t("Ambalaj")}
                           </Link>
                         </li>
                         <li>
-                          <Link as={Link} to="/Gida" onClick={handleClick}>
+                          <Link as={Link} to="/gida" onClick={handleClick}>
                             {t("Gıda")}
                           </Link>
                         </li>

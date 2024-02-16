@@ -63,18 +63,10 @@ function KozmetikUrunleri() {
                     <div className="sidebar__single sidebar__category">
                       <h3 className="sidebar__title">{t("KATEGORİLER")}</h3>
                       <ul className="sidebar__category-list list-unstyled">
-                        {/* <div className="sidebar__singles sidebar__download">
-                          <p>
-                            <a href="assets/pdf/Yenidünya-Katalog.pdf" download>
-                              <i class="fa fa-download"></i>&nbsp;
-                              {t("Katalog PDF İndir")}
-                            </a>
-                          </p>
-                        </div> */}
                         <li>
                           <Link
                             as={Link}
-                            to="/EndustriyelTemizlik"
+                            to="/endustriyel-temizlik"
                             onClick={handleClick}
                           >
                             {t("Endüstriyel Temizlik")}
@@ -83,7 +75,7 @@ function KozmetikUrunleri() {
                         <li>
                           <Link
                             as={Link}
-                            to="/EndustriyelMutfak"
+                            to="/endustriyel-mutfak"
                             onClick={handleClick}
                           >
                             {t("Endüstriyel Mutfak")}
@@ -92,7 +84,7 @@ function KozmetikUrunleri() {
                         <li>
                           <Link
                             as={Link}
-                            to="/EndustriyelKagit"
+                            to="/endustriyel-kagit"
                             onClick={handleClick}
                           >
                             {t("Endüstriyel Kağıt")}
@@ -101,7 +93,7 @@ function KozmetikUrunleri() {
                         <li>
                           <Link
                             as={Link}
-                            to="/KozmetikUrunleri"
+                            to="/kozmetik-urunleri"
                             onClick={handleClick}
                           >
                             {t("Kozmetik Ürünleri")}
@@ -110,19 +102,19 @@ function KozmetikUrunleri() {
                         <li>
                           <Link
                             as={Link}
-                            to="/BitkiselUrunler"
+                            to="/bitkisel-urunler"
                             onClick={handleClick}
                           >
                             {t("Bitkisel Ürünler")}
                           </Link>
                         </li>
                         <li>
-                          <Link as={Link} to="/Ambalaj" onClick={handleClick}>
+                          <Link as={Link} to="/ambalaj" onClick={handleClick}>
                             {t("Ambalaj")}
                           </Link>
                         </li>
                         <li>
-                          <Link as={Link} to="/Gida" onClick={handleClick}>
+                          <Link as={Link} to="/gida" onClick={handleClick}>
                             {t("Gıda")}
                           </Link>
                         </li>

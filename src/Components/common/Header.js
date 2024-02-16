@@ -120,7 +120,7 @@ function Header() {
                 </Nav.Link>
                 <Nav.Link
                   as={Link}
-                  to="/Aboutus"
+                  to="/hakkimizda"
                   className="nav-link scrollto"
                   onClick={handleClick}
                 >
@@ -137,54 +137,54 @@ function Header() {
                 >
                   <NavDropdown.Item
                     as={Link}
-                    to="/EndustriyelTemizlik"
+                    to="/endustriyel-temizlik"
                     onClick={handleClick}
                   >
                     {t("Endüstrİyel TemİZLİk")}
                   </NavDropdown.Item>
                   <NavDropdown.Item
                     as={Link}
-                    to="/EndustriyelMutfak"
+                    to="/endustriyel-mutfak"
                     onClick={handleClick}
                   >
                     {t("Endüstrİyel Mutfak")}
                   </NavDropdown.Item>
                   <NavDropdown.Item
                     as={Link}
-                    to="/EndustriyelKagit"
+                    to="/endustriyel-kagit"
                     onClick={handleClick}
                   >
                     {t("Endüstrİyel Kağıt")}
                   </NavDropdown.Item>
                   <NavDropdown.Item
                     as={Link}
-                    to="/KozmetikUrunleri"
+                    to="/kozmetik-urunleri"
                     onClick={handleClick}
                   >
                     {t("Kozmetİk Ürünlerİ")}
                   </NavDropdown.Item>
                   <NavDropdown.Item
                     as={Link}
-                    to="/BitkiselUrunler"
+                    to="/bitkisel-urunler"
                     onClick={handleClick}
                   >
                     {t("BİTKİSEL Ürünler")}
                   </NavDropdown.Item>
                   <NavDropdown.Item
                     as={Link}
-                    to="/Ambalaj"
+                    to="/ambalaj"
                     onClick={handleClick}
                   >
                     {t("AMBALAJ")}
                   </NavDropdown.Item>
-                  <NavDropdown.Item as={Link} to="/Gida" onClick={handleClick}>
+                  <NavDropdown.Item as={Link} to="/gida" onClick={handleClick}>
                     {t("Gıda")}
                   </NavDropdown.Item>
                 </NavDropdown>
 
                 <Nav.Link
                   as={Link}
-                  to="/Contactus"
+                  to="/Iletisim"
                   className="nav-link scrollto"
                   onClick={handleClick}
                 >

@@ -19,7 +19,7 @@ function Aboutus() {
 
   return (
     <>
-      <section className="about-one">
+      <section className="about-one mt-5">
         <div className="container">
           <div className="row">
             <div className="section-title text-center">

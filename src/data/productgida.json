@@ -3,49 +3,49 @@
     "id": "1",
     "picture": "assets/images/gida/caykur-filiz-cay.webp",
     "price": "detaylar",
-    "nav": "/GidaCaykurFilizCay",
+    "nav": "/gida-caykur-filiz-cay",
     "title": "ÇAYKUR FİLİZ ÇAY"
   },
   {
     "id": "2",
     "picture": "assets/images/gida/caykur-kamelya-cay.webp",
     "price": "detaylar",
-    "nav": "/GidaCaykurKamelyaCay",
+    "nav": "/gida-caykur-kamelya-cay",
     "title": "ÇAYKUR KAMELYA ÇAY"
   },
   {
     "id": "3",
     "picture": "assets/images/gida/caykur-rize-turist-cay.webp",
     "price": "detaylar",
-    "nav": "/GidaCaykurRizeTuristCay",
+    "nav": "/gida-caykur-rize-turist-cay",
     "title": "ÇAYKUR RİZE TURİST ÇAYI"
   },
   {
     "id": "4",
     "picture": "assets/images/gida/caykur-tiryaki-cay.webp",
     "price": "detaylar",
-    "nav": "/GidaCaykurTiryakiCay",
+    "nav": "/gida-caykur-tiryaki-cay",
     "title": "ÇAYKUR TİRYAKİ ÇAY"
   },
   {
     "id": "5",
     "picture": "assets/images/gida/kup-seker.webp",
     "price": "detaylar",
-    "nav": "/GidaKupSeker",
+    "nav": "/gida-kup-seker",
     "title": "KÜP ŞEKER"
   },
   {
     "id": "6",
     "picture": "assets/images/gida/soda.webp",
     "price": "detaylar",
-    "nav": "/GidaSoda",
+    "nav": "/gida-soda",
     "title": "SODA"
   }, 
   {
     "id": "7",
     "picture": "assets/images/gida/bardak-su.webp",
     "price": "detaylar",
-    "nav": "/GidaSu",
+    "nav": "/gida-su",
     "title": "SU"
   }
 ]

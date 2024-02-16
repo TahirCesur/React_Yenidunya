@@ -3,49 +3,49 @@
     "id": "1",
     "picture": "assets/images/endustriyelmutfak/inoksan-bulasik-makinesi-500-tabak.webp",
     "price": "detaylar",
-    "nav": "/EndustriyelMutfakInoksanBulasikMakinesi",
+    "nav": "/endustriyel-mutfak-inoksan-bulasik-makinesi",
     "title": "İNOKSAN BULAŞIK MAKİNESİ 500 TABAK"
   },
   {
     "id": "2",
     "picture": "assets/images/endustriyelmutfak/oztiryakiler-1000-tabak.webp",
     "price": "detaylar",
-    "nav": "/EndustriyelMutfakOztiryakilerBulasikMakinesi",
+    "nav": "/endustriyel-mutfak-oztiryakiler-bulasik-makinesi",
     "title": "ÖZTİRYAKİLER BULAŞIK MAKİNESİ 1000 TABAK"
   },
   {
     "id": "3",
     "picture": "assets/images/endustriyelmutfak/oztiryakiler-bardak-yikama-40x40.webp",
     "price": "detaylar",
-    "nav": "/EndustriyelMutfakOztiryakilerBardakYikamaMakinesi",
+    "nav": "/endustriyel-mutfak-oztiryakiler-bardak-yikama-makinesi",
     "title": "ÖZTİRYAKİLER BARDAK YIKAMA 40X40"
   },
   {
     "id": "4",
     "picture": "assets/images/endustriyelmutfak/endustriyel-davlumbaz.webp",
     "price": "detaylar",
-    "nav": "/EndustriyelMutfakEndustriyelDavlumbaz",
+    "nav": "/endustriyel-mutfak-endustriyel-davlumbaz",
     "title": "ENDÜSTRİYEL DAVLUMBAZ"
   },
   {
     "id": "5",
     "picture": "assets/images/endustriyelmutfak/yer-ocagi.webp",
     "price": "detaylar",
-    "nav": "/EndustriyelMutfakYerOcagi",
+    "nav": "/endustriyel-mutfak-yer-ocagi",
     "title": "YER OCAĞI"
   },
   {
     "id": "6",
     "picture": "assets/images/endustriyelmutfak/paslanmaz-tezgah.webp",
     "price": "detaylar",
-    "nav": "/EndustriyelMutfakPaslanmazTezgah",
+    "nav": "/endustriyel-mutfak-paslanmaz-tezgah",
     "title": "PASLANMAZ TEZGAH"
   },
   {
     "id": "7",
     "picture": "assets/images/endustriyelmutfak/kuzine-firin.webp",
     "price": "detaylar",
-    "nav": "/EndustriyelMutfakKuzineFirin",
+    "nav": "/endustriyel-mutfak-kuzine-firin",
     "title": "KUZİNE FIRIN"
   }
 ]

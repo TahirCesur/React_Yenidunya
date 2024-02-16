@@ -3,98 +3,98 @@
     "id": "3",
     "picture": "assets/images/endustriyeltemizlik/dolphin-nitril-eldiven.webp",
     "price": "detaylar",
-    "nav": "/TemizlikDolphinNitrilEldiven",
+    "nav": "/temizlik-dolphin-nitril-eldiven",
     "title": "DOLPHİN NİTRİL ELDİVEN"
   },
   {
     "id": "6",
     "picture": "assets/images/endustriyeltemizlik/beybi-nitril-eldiven.webp",
     "price": "detaylar",
-    "nav": "/TemizlikBeybiNitrilEldiven",
+    "nav": "/temizlik-beybi-nitril-eldiven",
     "title": "BEYBİ NİTRİL ELDİVEN"
   },
   {
     "id": "7",
     "picture": "assets/images/endustriyeltemizlik/viper-nitril-eldiven.webp",
     "price": "detaylar",
-    "nav": "/TemizlikViperNitrilEldiven",
+    "nav": "/temizlik-viper-nitril-eldiven",
     "title": "VİPER NİTRİL ELDİVEN"
   },
   {
     "id": "5",
     "picture": "assets/images/endustriyeltemizlik/beybi-lateks-pudrasiz.webp",
     "price": "detaylar",
-    "nav": "/TemizlikBeybiLateksPudrasizEldiven",
+    "nav": "/temizlik-beybi-lateks-pudrasiz-eldiven",
     "title": "BEYBİ LATEKS PUDRASIZ ELDİVEN"
   },
   {
     "id": "4",
     "picture": "assets/images/endustriyeltemizlik/beybi-lateks-pudralı.webp",
     "price": "detaylar",
-    "nav": "/TemizlikBeybiLateksPudraliEldiven",
+    "nav": "/temizlik-beybi-lateks-pudrali-eldiven",
     "title": "BEYBİ LATEKS PUDRALI ELDİVEN 100 LÜ"
   },
   {
     "id": "2",
     "picture": "assets/images/endustriyeltemizlik/dolphin-lateks-pudrasiz-eldiven.webp",
     "price": "detaylar",
-    "nav": "/TemizlikDolphinLateksPudrasizEldiven",
+    "nav": "/temizlik-dolphin-lateks-pudrasiz-eldiven",
     "title": "DOLPHİN LATEKS PUDRASIZ ELDİVEN"
   },
   {
     "id": "1",
     "picture": "assets/images/endustriyeltemizlik/dolphin-lateks-pudrali-eldiven.webp",
     "price": "detaylar",
-    "nav": "/TemizlikDolphinLateksPudraliEldiven",
+    "nav": "/temizlik-dolphin-lateks-pudrali-eldiven",
     "title": "DOLPHİN LATEKS PUDRALI ELDİVEN"
   },
   {
     "id": "9",
     "picture": "assets/images/endustriyeltemizlik/bulasik-makinesi-durulama-maddesi.webp",
     "price": "detaylar",
-    "nav": "/TemizlikBulasikMakinesiDurulamaMaddesi",
+    "nav": "/temizlik-bulasik-makinesi-durulama-maddesi",
     "title": "BULAŞIK MAKİNESİ DURULAMA MADDESİ"
   },
   {
     "id": "9",
     "picture": "assets/images/endustriyeltemizlik/bulasik-makinesi-sivi-deterjani.webp",
     "price": "detaylar",
-    "nav": "/TemizlikBulasikMakinesiSiviDeterjani",
+    "nav": "/temizlik-bulasik-makinesi-sivi-deterjani",
     "title": "BULAŞIK MAKİNESİ SIVI DETERJANI"
   },
   {
     "id": "10",
     "picture": "assets/images/endustriyeltemizlik/hijyenik-masa-temizleyici.webp",
     "price": "detaylar",
-    "nav": "/TemizlikHijyenikMasaGenelAlanTemizleyici",
+    "nav": "/temizlik-hijyenik-masa-genel-alan-temizleyici",
     "title": "HİJYENİK MASA VE GENEL ALAN TEMİZLEYİCİ"
   },
   {
     "id": "11",
     "picture": "assets/images/endustriyeltemizlik/firin-gril-yanmis-yag-temizleyici-fisfis.webp",
     "price": "detaylar",
-    "nav": "/TemizlikFirinGrillYanmisYagTemizleyici",
+    "nav": "/temizlik-firin-grill-yanmis-yag-temizleyici",
     "title": "FIRIN IZGARA GRİLL VE YANMIŞ YAĞ TEMİZLEYİCİ"
   },
   {
     "id": "19",
     "picture": "assets/images/endustriyeltemizlik/oxy-hijyenik-masa-temizleme.webp",
     "price": "detaylar",
-    "nav": "/TemizlikOxyHijyenikMasaTemizlemeBezi",
+    "nav": "/temizlik-oxy-hijyenik-masa-temizleme-bezi",
     "title": "OXY HİJYEN ISLAK BEZ"
   },
   {
     "id": "8",
     "picture": "assets/images/endustriyeltemizlik/clark-hijyen-kovasi-bezi.webp",
     "price": "detaylar",
-    "nav": "/TemizlikClarkHijyenKovasi",
+    "nav": "/temizlik-clark-hijyen-kovasi",
     "title": "CLARK HİJYEN KOVASI & BEZİ"
   },
   {
     "id": "13",
     "picture": "assets/images/endustriyeltemizlik/camasir-suyu-30-lt.webp",
     "price": "detaylar",
-    "nav": "/TemizlikCamasirSuyu30kg",
+    "nav": "/temizlik-camasir-suyu-30kg",
     "title": "ÇAMAŞIR SUYU"
   },
 
@@ -102,126 +102,126 @@
     "id": "14",
     "picture": "assets/images/endustriyeltemizlik/elde-bulasik-yikama-maddesi-m-102.webp",
     "price": "detaylar",
-    "nav": "/TemizlikEldeBulasikYikamaMaddesi",
+    "nav": "/temizlik-elde-bulasik-yikama-maddesi",
     "title": "ELDE BULAŞIK YIKAMA MADDESİ"
   },
   {
     "id": "15",
     "picture": "assets/images/endustriyeltemizlik/genel-temizlik-maddesi-5lt.webp",
     "price": "detaylar",
-    "nav": "/TemizlikGenelTemizlikMaddesi",
+    "nav": "/temizlik-genel-temizlik-maddesi",
     "title": "GENEL TEMİZLİK MADDESİ"
   },
   {
     "id": "20",
     "picture": "assets/images/endustriyeltemizlik/ultra-kivamli-camasir-suyu-30-lt.webp",
     "price": "detaylar",
-    "nav": "/TemizlikUltraKivamliCamasirSuyu",
+    "nav": "/temizlik-ultra-kivamli-camasir-suyu",
     "title": "ULTRA KIVAMLI ÇAMAŞIR SUYU"
   },
   {
     "id": "16",
     "picture": "assets/images/endustriyeltemizlik/inoksclean-camasir-suyu-tableti.webp",
     "price": "detaylar",
-    "nav": "/TemizlikCamasirSuyuTableti",
+    "nav": "/temizlik-camasir-suyu-tableti",
     "title": "ÇAMAŞIR SUYU TABLETİ"
   },
   {
     "id": "17",
     "picture": "assets/images/endustriyeltemizlik/lavabo-gider-acici.webp",
     "price": "detaylar",
-    "nav": "/TemizliklavaboGiderAcici",
+    "nav": "/temizlik-lavabo-gider-acici",
     "title": "LAVABO GİDER AÇICI"
   },
   {
     "id": "18",
     "picture": "assets/images/endustriyeltemizlik/mineralli-ovma-kremi.webp",
     "price": "detaylar",
-    "nav": "/TemizlikMineralliOvmaKremi",
+    "nav": "/temizlik-mineralli-ovma-kremi",
     "title": "MİNERALLİ OVAMA KREMİ"
   },
   {
     "id": "21",
     "picture": "assets/images/endustriyeltemizlik/yag-cozucu.webp",
     "price": "detaylar",
-    "nav": "/TemizlikYagCozucu",
+    "nav": "/temizlik-yag-cozucu",
     "title": "YAĞ ÇÖZÜCÜ"
   },
   {
     "id": "22",
     "picture": "assets/images/endustriyeltemizlik/kolonya.webp",
     "price": "detaylar",
-    "nav": "/TemizlikKolonya",
+    "nav": "/temizlik-kolonya",
     "title": "KOLONYA"
   },
   {
     "id": "23",
     "picture": "assets/images/endustriyeltemizlik/agir-kir-yag-cozucu.webp",
     "price": "detaylar",
-    "nav": "/TemizlikAgirKirYagCozucu",
+    "nav": "/temizlik-agir-kir-yag-cozucu",
     "title": "AĞIR KİR VE YAĞ ÇÖZÜCÜ"
   },
   {
     "id": "24",
     "picture": "assets/images/endustriyeltemizlik/bulasik-makinesi-kireç-temzileme-bakim.webp",
     "price": "detaylar",
-    "nav": "/TemizlikEndustriyelBulasikMakinesKirecTemzileme",
+    "nav": "/temizlik-endustriyel-bulasik-makines-kirec-temizleme",
     "title": "ENDÜSTRİYEL BULAŞIK MAKİNASI KİREÇ TEMİZLEME VE BAKIM"
   },
   {
     "id": "25",
     "picture": "assets/images/endustriyeltemizlik/alkol-bazli-yuzey-temizleme-maddesi.webp",
     "price": "detaylar",
-    "nav": "/TemizlikAlkolBazliYuzeyTemizleme",
+    "nav": "/temizlik-alkol-bazli-yuzey-temizleme",
     "title": "ALKOL BAZLI YÜZEY TEMİZLEME MADDESİ"
   },
   {
     "id": "26",
     "picture": "assets/images/endustriyeltemizlik/qac-bazli-yuzey-temizleme-maddesi.webp",
     "price": "detaylar",
-    "nav": "/TemizlikQacBazliYuzeyTemizleme",
+    "nav": "/temizlik-qac-bazli-yuzey-temizleme",
     "title": "QAC BAZLI YÜZEY TEMİZLEME MADDESİ"
   },
   {
     "id": "27",
     "picture": "assets/images/endustriyeltemizlik/kurum-pas-silikat-asidik-temzilmeme-maddesi.webp",
     "price": "detaylar",
-    "nav": "/TemizlikKurumPasSilikatAsidikTemizleme",
+    "nav": "/temizlik-kurum-pas-silikat-asidik-temizleme",
     "title": "KURUM PAS SİLİKAT SÖKÜCÜ YÜKSEK ASİDİK TEMİZLEYİCİ"
   },
   {
     "id": "28",
     "picture": "assets/images/endustriyeltemizlik/zemin-temizlik-otomat-sivisi.webp",
     "price": "detaylar",
-    "nav": "/TemizlikZeminTemizlikOtomatSivisi",
+    "nav": "/temizlik-zemin-temizlik-otomat-sivisi",
     "title": "ZEMİN TEMİZLİK VE OTOMAT SIVISI"
   },
   {
     "id": "29",
     "picture": "assets/images/endustriyeltemizlik/banyo-armatür-derz-temizleyici.webp",
     "price": "detaylar",
-    "nav": "/TemizlikBanyoArmatürDerzTemizleyicisi",
+    "nav": "/temizlik-banyo-armatür-derz-temizleyicisi",
     "title": "BANYO ARMATÜR DERZ TEMİZLEYİCİ"
   },
   {
     "id": "30",
     "picture": "assets/images/endustriyeltemizlik/wc-klozet-pisuar-temizleyici.webp",
     "price": "detaylar",
-    "nav": "/TemizlikWcKlozetPisuarTemizleme",
+    "nav": "/temizlik-wc-klozet-pisuar-temizleme",
     "title": "WC KLOZET PİSUAR TEMİZLEYİCİ G-208"
   },
   {
     "id": "31",
     "picture": "assets/images/endustriyeltemizlik/sivi-on-daldirma-maddesi.webp",
     "price": "detaylar",
-    "nav": "/TemizlikSiviOnDaldirmaMaddesi",
+    "nav": "/temizlik-sivi-on-daldirma-maddesi",
     "title": "SIVI ÖN DALDIRMA MADDESİ M-108"
   },
   {
     "id": "32",
     "picture": "assets/images/endustriyeltemizlik/sivi-el-sabunu.webp",
     "price": "detaylar",
-    "nav": "/TemizlikSiviElYikamaMaddesi",
+    "nav": "/temizlik-sivi-el-yikama-maddesi",
     "title": "SIVI EL YIKAMA MADDESİ"
   }
 ]

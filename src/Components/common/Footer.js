@@ -99,7 +99,7 @@ function Footer() {
                     </Link>
                   </li>
                   <li>
-                    <Link as={Link} to="/Aboutus" onClick={handleClick}>
+                    <Link as={Link} to="/hakkimizda" onClick={handleClick}>
                       <i
                         className="fa fa-chevron-right"
                         style={{ fontSize: "13px" }}
@@ -108,7 +108,7 @@ function Footer() {
                     </Link>
                   </li>
                   <li>
-                    <Link as={Link} to="/Product" onClick={handleClick}>
+                    <Link as={Link} to="/urunlerimiz" onClick={handleClick}>
                       <i
                         className="fa fa-chevron-right"
                         style={{ fontSize: "13px" }}
@@ -117,7 +117,7 @@ function Footer() {
                     </Link>
                   </li>
                   <li>
-                    <Link as={Link} to="/Question" onClick={handleClick}>
+                    <Link as={Link} to="/sorular" onClick={handleClick}>
                       <i
                         className="fa fa-chevron-right"
                         style={{ fontSize: "13px" }}
@@ -126,7 +126,7 @@ function Footer() {
                     </Link>
                   </li>
                   <li>
-                    <Link as={Link} to="/Contactus" onClick={handleClick}>
+                    <Link as={Link} to="/iletisim" onClick={handleClick}>
                       <i
                         className="fa fa-chevron-right"
                         style={{ fontSize: "13px" }}
@@ -147,7 +147,7 @@ function Footer() {
                   <li>
                     <Link
                       as={Link}
-                      to="/EndustriyelTemizlik"
+                      to="/endustriyel-temizlik"
                       onClick={handleClick}
                     >
                       <i
@@ -160,7 +160,7 @@ function Footer() {
                   <li>
                     <Link
                       as={Link}
-                      to="/EndustriyelMutfak"
+                      to="/endustriyel-mutfak"
                       onClick={handleClick}
                     >
                       <i
@@ -173,7 +173,7 @@ function Footer() {
                   <li>
                     <Link
                       as={Link}
-                      to="/EndustriyelKagit"
+                      to="/endustriyel-kagit"
                       onClick={handleClick}
                     >
                       <i
@@ -186,7 +186,7 @@ function Footer() {
                   <li>
                     <Link
                       as={Link}
-                      to="/KozmetikUrunleri"
+                      to="/kozmetik-urunleri"
                       onClick={handleClick}
                     >
                       <i
@@ -197,7 +197,7 @@ function Footer() {
                     </Link>
                   </li>
                   <li>
-                    <Link as={Link} to="/BitkiselUrunler" onClick={handleClick}>
+                    <Link as={Link} to="/bitkisel-urunler" onClick={handleClick}>
                       <i
                         className="fa fa-chevron-right"
                         style={{ fontSize: "13px" }}
@@ -206,7 +206,7 @@ function Footer() {
                     </Link>
                   </li>
                   <li>
-                    <Link as={Link} to="/Ambalaj" onClick={handleClick}>
+                    <Link as={Link} to="/ambalaj" onClick={handleClick}>
                       <i
                         className="fa fa-chevron-right"
                         style={{ fontSize: "13px" }}
@@ -215,7 +215,7 @@ function Footer() {
                     </Link>
                   </li>
                   <li>
-                    <Link as={Link} to="/Gida" onClick={handleClick}>
+                    <Link as={Link} to="/gida" onClick={handleClick}>
                       <i
                         className="fa fa-chevron-right"
                         style={{ fontSize: "13px" }}
